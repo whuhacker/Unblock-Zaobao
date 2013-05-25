@@ -2,11 +2,24 @@
 
 A simple Chrome extension for bypassing the oversea limitation of zaobao.com.
 
-Installing this extension, you agree that it is only for study purposes and its authors take no responsibilities for any consequences.
+## Usage
 
-You can download the Chrome extension (crx) file from  http://bit.ly/Unblock-Zaobao-crx
+1. Download the Chrome extension (crx) file from  http://bit.ly/Unblock-Zaobao-crx
+2. Open your Chrome browser, go to Extension's page `chrome://extensions/`
+3. Drag and drop the crx file to the page.
+4. Visit [www.zaobao.com](http://www.zaobao.com) and you are free to read any news.
 
-    Copyright (C) 2012 Zeng Xi http://www.lovelucy.info
+_Note_: Please make sure to go to [www.zaobao.com](http://www.zaobao.com), NOT [www.zaobao.com.sg](http://www.zaobao.com.sg)
+
+## Disclaimer
+
+Using/installing this extension, you agree that it is only for study purposes and its authors take no responsibilities for any consequences.
+
+## License
+
+The source code is released under [AGPL v3](http://www.gnu.org/licenses/agpl-3.0.html) or (at your option) any later version.
+
+    Copyright (C) 2013 Zeng Xi http://www.lovelucy.info
 
     Permission is hereby granted, free of charge, to any person obtaining a
     copy of this software and associated documentation files (the "Software"),
