@@ -1,5 +1,5 @@
 var unblock_zaobao = {};  // namespace
-unblock_zaobao.ip_addr  = "220.181.111.";
+unblock_zaobao.ip_addr  = " 204.245.190.49.";
 unblock_zaobao.ip_addr += Math.floor(Math.random() * 254 + 1); // 1 ~ 254
 console.log('faked ip addr: ' + unblock_zaobao.ip_addr);
 
